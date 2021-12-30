@@ -1,6 +1,6 @@
 {
   "name": "rita-gulp-watch",
-  "version": "5.1.5",
+  "version": "5.1.7",
   "description": "Watch, that actually is an endless stream",
   "main": "index.js",
   "keywords": [
